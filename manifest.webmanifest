@@ -1,8 +1,8 @@
 {
   "name": "Clientes PWA",
   "short_name": "client-pwa",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "theme_color": "#9C4AED",
+  "background_color": "#9C4AED",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
